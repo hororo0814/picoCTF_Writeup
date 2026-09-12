@@ -2,7 +2,7 @@
 
 ## 問題の確認
 
-numbers.phgというファイルが与えられます<br>
+numbers.pngというファイルが与えられます<br>
 中身を見てみると<br>
 
 ```python
